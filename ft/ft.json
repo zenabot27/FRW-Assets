@@ -510,5 +510,22 @@
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/frly/logo.png",
     "symbol": "FRLY",
     "website": "https://freely.com/"
+  },
+  {
+    "name": "Dapper Utility Coin",
+    "address": {
+      "mainnet": "0xead892083b3e2c6c",
+      "testnet": "0x82ec283f88a62e65"
+    },
+    "contract_name": "DapperUtilityCoin",
+    "storage_path": {
+      "balance": "/public/dapperUtilityCoinBalance",
+      "vault": "/storage/dapperUtilityCoinVault",
+      "receiver": "/public/dapperUtilityCoinReceiver"
+    },
+    "decimal": 8,
+    "icon": "https://raw.githubusercontent.com/onflow/FRW-Assets/main/ft/DapperUtilityCoin/logo.png",
+    "symbol": "DUC",
+    "website": "https://www.meetdapper.com/"
   }
 ]

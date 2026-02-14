@@ -150,5 +150,13 @@
         "description": "Helps users on Flow make sure their NFT Collections and fungible tokens are set up properly",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/link/logo.png",
         "category": "Tool"
+    },
+    {
+        "name": "Dapper",
+        "url": "https://www.meetdapper.com/",
+        "testnet_url": null,
+        "description": "Dapper Wallet is a smart wallet built for the Flow blockchain, making it easy and secure to buy, store, and manage digital assets.",
+        "logo": "https://raw.githubusercontent.com/onflow/FRW-Assets/main/dapp/dapper/logo.png",
+        "category": "Tool"
     }
 ]
